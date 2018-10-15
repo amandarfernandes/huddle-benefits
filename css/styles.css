@@ -263,7 +263,7 @@ section {
 }
 
 @media (max-width:985px){
-
+ 
  .main-footer__left {
         width: 20vw;
        
@@ -282,10 +282,11 @@ section {
      font-size: 8px;
  }
 
+ 
 
 }
 
-@media (max-width:600px){
+@media (max-width:630px){
 
 .main-header {
     padding: 0 0.5rem;
